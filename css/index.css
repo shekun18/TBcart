@@ -15,15 +15,15 @@
     z-index: 1001;
     animation: more 0.3s linear infinite alternate;
 }
-/*.content{*/
-    /*width: 900px;*/
-    /*height: 600px;*/
-    /*background: rgba(0,0,0,0.1);*/
-    /*position: absolute;*/
-    /*bottom: 0;*/
-    /*left: 50%;*/
-    /*margin-left: -450px;*/
-/*}*/
+.content{
+    width: 900px;
+    height: 600px;
+    background: rgba(0,0,0,0);
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    margin-left: -450px;
+}
 
 
 /*第一屏*/
